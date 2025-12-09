@@ -7,7 +7,7 @@ import androidx.activity.enableEdgeToEdge
 import androidx.activity.viewModels
 import com.example.uas_perangkat.ui.EventScreen
 import com.example.uas_perangkat.ui.EventViewModel
-import com.example.uas_perangkat.ui.theme.UAS_PerangkatTheme
+import com.example.uas_perangkat.ui.ui.UAS_PerangkatTheme
 
 class MainActivity : ComponentActivity() {
 
